@@ -2,7 +2,7 @@
 
 
 - 🌱 Desenvolvo em Java
-- 📫 Como me encontrar: lucaslemos8294@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leminhosdev&theme=prussian&show_icons=true)
 
