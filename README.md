@@ -2,7 +2,8 @@
 
 
 - 🌱 Desenvolvo em Java
-- 🍃 Desenvolvo no ecossistema Spring
+- 🍃 Desenvolvo no ecossistema Spring e Angular
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leminhosdev&theme=prussian&show_icons=true)
