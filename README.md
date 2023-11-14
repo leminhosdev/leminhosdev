@@ -31,6 +31,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=rabbitmq&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rabbitmq.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=dockert&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mysqlr&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
