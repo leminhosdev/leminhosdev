@@ -3,8 +3,8 @@
 <p align="left">
 </p>
  
-<h1 align="center">Hi, I'm atom</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan. Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.</h3>
+<h1 align="center">Hi, I'm Lucas</h1>
+<h3 align="center">A passionate frontend developer from Brazil Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.</h3>
 
 
 
